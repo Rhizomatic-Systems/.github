@@ -1,4 +1,5 @@
-# RHIZOMATIC SYSTEMS <!-- document version 0.3.7 -->
+<!-- document version 0.4.7 -->
+# RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
 > Imagine the amazing good fortune of the generation that gets to see the end of the world. This is as marvelous as being there in the beginning. How could one not wish for that with all one's heart? How could one not lend one's feeble resources to bringing it about?
@@ -19,7 +20,12 @@ Nostr
 Session ID:
 ```054ebaa15a6575a355ffb377f5e44002e5e6eb01200fa5c4a20ae40688de0c3f00```
 ### COMMUNITIES/CHANNELS
-## COMRADES AND SUPPORTED PROJECTS
+## STANDARDS
+### ETHOS
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" style="filter: brightness(0) invert(1);"> <img alt="Kopimi" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" width="115" height="120"></picture>
+</picture>
+### COMRADES
+### SUPPORTED PROJECTS
 <!--
 This list is not comprehensive, but includes projects that reflect the ethos of Rhizomatic Systems
 - Rnode by xxxxxx (GitHub Repo)
