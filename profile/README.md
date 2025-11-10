@@ -1,4 +1,4 @@
-<!-- document version 0.5.7 -->
+<!-- document version 0.6.7 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -26,9 +26,9 @@ Session ID:
 </picture>
 ### COMRADES
 ### SUPPORTED PROJECTS
-### SUPPORTED GROUPS 
+### CURRENT SUPPORTED GROUPS
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2_%D0%A8%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD_%D0%92%D0%B7%D0%B2%D0%BE%D0%B4_%D0%97%D0%B2%E2%80%99%D1%8F%D0%B7%D0%BA%D1%83.svg" alt="4th Assault Group Communications Platoon" width="40" height="76" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2_%D0%A8%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD_%D0%92%D0%B7%D0%B2%D0%BE%D0%B4_%D0%97%D0%B2%E2%80%99%D1%8F%D0%B7%D0%BA%D1%83.svg" alt="4th Assault Group Communications Platoon" width="39" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Shershen.png" alt="Reconnaissance and Strike UAV Unit - Hornet" width="41" height="75" />
 </p>
 <!--
 This list is not comprehensive, but includes projects that reflect the ethos of Rhizomatic Systems
