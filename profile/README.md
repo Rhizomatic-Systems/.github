@@ -1,4 +1,4 @@
-<!-- document version 0.7.7 -->
+<!-- doc ver 0.8.7 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -29,7 +29,9 @@ Session ID:
 ### SUPPORTED PROJECTS
 ### CURRENT SUPPORTED GROUPS
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2_%D0%A8%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD_%D0%92%D0%B7%D0%B2%D0%BE%D0%B4_%D0%97%D0%B2%E2%80%99%D1%8F%D0%B7%D0%BA%D1%83.svg" alt="4th Assault Group Communications Platoon" width="39" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Shershen.png" alt="Reconnaissance and Strike UAV Unit - Hornet" width="41" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Revenge_Group_3_oshbr.png" alt="1st Mechanized Infantry Battalion Attack Drone Platoon - Revenge Group" width="35" height="75" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/2_%D0%A8%D1%82%D1%83%D1%80%D0%BC%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D0%B0%D1%82%D0%B0%D0%BB%D1%8C%D0%B9%D0%BE%D0%BD_%D0%92%D0%B7%D0%B2%D0%BE%D0%B4_%D0%97%D0%B2%E2%80%99%D1%8F%D0%B7%D0%BA%D1%83.svg" alt="4th Assault Group Communications Platoon" width="39" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/Shershen.png" alt="Reconnaissance and Strike UAV Unit - Hornet" width="41" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Revenge_Group_3_oshbr.png" alt="1st Mechanized Infantry Battalion Attack Drone Platoon - Revenge Group" width="35" height="75" /> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Lumiere_Group_3_%D0%9E%D0%A8%D0%91%D1%80.png" alt="2nd Mechanized Infantry Battalion UAV Group - Lumiere (Drops and Kamikaze)" width="45" height="75" />
+</p>
+
 </p>
 <!--
 This list is not comprehensive, but includes projects that reflect the ethos of Rhizomatic Systems
