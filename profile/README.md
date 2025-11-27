@@ -1,4 +1,4 @@
-<!-- doc ver 0.18.9 -->
+<!-- doc ver 0.19.9 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -33,6 +33,8 @@ Session ID:
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Logo_of_the_Shershen_Drone_Company_%282nd_Assault_Battalion%2C_3rd_Assault_Brigade%29.png" width="39" height="75" alt="3AB 2nd Assault Infantry Battalion Shershen Drone Company /> <img src="https://militaryland.net/wp-content/uploads/2025/07/i_Valhalla_Group_3rd_Assault_International.webp" /> <img src="https://militaryland.net/wp-content/uploads/2025/07/i_Valhalla_Group_3rd_Assault_International.webp" width="45" height="75" alt="3AB 1st Assault Rifle Battalion- Valhalla Group" />
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Punkgroup2mb3oshbr.svg" width="60" weight="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Hatred3oshbr.svg" width="60" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Paskuda_Group_3rd_AB.png" width="59" height="60" alt="3AB 2nd Mechanized Infantry Battalion Field Artillery Regiment FPV Drone Unit - Paskuda Group" />
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/TERRA_unit.png" width="50" height="60" alt="3AB Unmanned Systems Battalion Reconnaissance and Strike UAV Unit - Fatum" />
 </p> 
 
 <!--
