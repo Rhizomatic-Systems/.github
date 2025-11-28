@@ -1,4 +1,4 @@
-<!-- doc ver 0.19.9 -->
+<!-- doc ver 0.20.10 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -34,7 +34,7 @@ Session ID:
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Punkgroup2mb3oshbr.svg" width="60" weight="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Hatred3oshbr.svg" width="60" width="60" /> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Paskuda_Group_3rd_AB.png" width="59" height="60" alt="3AB 2nd Mechanized Infantry Battalion Field Artillery Regiment FPV Drone Unit - Paskuda Group" />
 <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/TERRA_unit.png" width="50" height="60" alt="3AB Unmanned Systems Battalion Reconnaissance and Strike UAV Unit - Fatum" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/TERRA_unit.png" width="50" height="60" alt="3AB Unmanned Systems Battalion Aerial Reconnaissance Unit - Terra" /> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/FatumUkraine.png" width="60" height="60" alt="3AB Unmanned Systems Battalion Reconnaissance and Strike UAV Unit" />
 </p> 
 
 <!--
