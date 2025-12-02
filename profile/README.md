@@ -1,4 +1,4 @@
-<!-- doc ver 0.21.11 -->
+<!-- doc ver 0.22.11 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -39,6 +39,11 @@ Session ID:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Mosquitos_drone_group.png" height="60" width="118" alt="3AB Unmanned Systems Battalion UAV Unit - Mosquitos" />
 </p> 
 
+<h2 align="center">WARRANT CANARY <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canary-logo.png" align="top" width="35" height=353 /></h2>
+Since it's inception, no warrants have been served to Rhizomatic Systems principals or employees. No searches or seizures have been performed on Rhizomatic Sysyems. 
+<!-- dead canary link:
+https://upload.wikimedia.org/wikipedia/commons/8/83/Canary-logo_dead.png
+-->
 <!--
 This list is not comprehensive, but includes projects that reflect the ethos of Rhizomatic Systems
 - Rnode by xxxxxx (GitHub Repo)
