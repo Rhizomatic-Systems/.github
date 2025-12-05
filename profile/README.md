@@ -1,4 +1,4 @@
-<!-- doc ver 0.22.11 -->
+<!-- doc ver 0.23.11 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -26,6 +26,13 @@ Session ID:
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" style="filter: brightness(0) invert(1);"> <img alt="Kopimi" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" width="115" height="120"></picture>
 </picture>
 ### COMRADES
+
+<p align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tor_Icon_Flat.svg" width="80" height="120" alt="The Tor Project" />
+
+</p>
+
 ### SUPPORTED PROJECTS
 ### CURRENT SUPPORTED GROUPS
 <p align="center">
