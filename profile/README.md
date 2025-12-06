@@ -1,10 +1,6 @@
-<!-- doc ver 0.24.11 -->
+<!-- doc ver 0.24.12 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
-> [!TIP]
-> Imagine the amazing good fortune of the generation that gets to see the end of the world. This is as marvelous as being there in the beginning. How could one not wish for that with all one's heart? How could one not lend one's feeble resources to bringing it about?
-> - Baudrillard, Fragments: Cool Memories III, 1990-1995
-
 > [!TIP]
 > There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.
 > - Baudrillard, Simulacra and Simulacrum (1981)
