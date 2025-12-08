@@ -1,4 +1,4 @@
-<!-- doc ver 0.24.12 -->
+<!-- doc ver 0.25.12 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -26,6 +26,10 @@ Session ID:
 <p align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tor_Icon_Flat.svg" width="80" height="120" alt="The Tor Project" />
+
+<br>
+
+<img src="https://www.eff.org/files/2018/06/14/eff-logo-lockup-reverse.png" width="320" height="70" alt="Electronic Frontier Foundation" />
 
 </p>
 
