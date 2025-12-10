@@ -1,4 +1,4 @@
-<!-- doc ver 0.25.12 -->
+<!-- doc ver 0.26.12 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -30,6 +30,10 @@ Session ID:
 <br>
 
 <img src="https://www.eff.org/files/2018/06/14/eff-logo-lockup-reverse.png" width="320" height="70" alt="Electronic Frontier Foundation" />
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" />
 
 </p>
 
