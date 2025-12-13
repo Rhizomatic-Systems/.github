@@ -1,4 +1,4 @@
-<!-- doc ver 0.27.12 -->
+<!-- doc ver 0.28.12 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -34,6 +34,10 @@ Session ID:
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" />
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" />
 
 </p>
 
