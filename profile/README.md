@@ -1,4 +1,4 @@
-<!-- doc ver 0.29.12 -->
+<!-- doc ver 0.30.12 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -20,7 +20,10 @@ Session ID:
 ## STANDARDS
 ### ETHOS
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" style="filter: brightness(0) invert(1);"> <img alt="Kopimi" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" width="115" height="120"></picture>
-</picture>
+</picture> <br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" width="114" height="120" alt="Open Source Hardware" />
+
 ### COMRADES
 
 <p align="center">
