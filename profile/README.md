@@ -1,4 +1,4 @@
-<!-- doc ver 0.30.13 -->
+<!-- doc ver 0.31.13 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -28,7 +28,8 @@ Session ID:
 
 </p>
 
-### COMRADES
+### COMRADES 
+<!-- nest the smaller logos side by side -->
 
 <p align="center">
 
@@ -49,6 +50,10 @@ Session ID:
 <br>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" />
+
+<br>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OFTC_logo.svg" width="120" height="120" alt="Open and Free Technology Community" />
 
 </p>
 
