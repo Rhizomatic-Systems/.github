@@ -1,4 +1,4 @@
-<!-- doc ver 0.31.13 -->
+<!-- doc ver 0.32.13 -->
 # RHIZOMATIC SYSTEMS 
 ## ABOUT
 > [!TIP]
@@ -51,9 +51,10 @@ Session ID:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" />
 
-<br>
+</p>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OFTC_logo.svg" width="120" height="120" alt="Open and Free Technology Community" />
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OFTC_logo.svg" width="120" height="120" alt="Open and Free Technology Community" /> <img src="https://reprap.org/mediawiki/images/b/b6/RepRap_Logo_Badge.png" width="96" height="120" alt="RepRap" />
 
 </p>
 
