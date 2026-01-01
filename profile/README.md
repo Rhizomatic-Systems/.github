@@ -1,5 +1,6 @@
-<!-- doc ver 0.32.13 -->
-# RHIZOMATIC SYSTEMS 
+<!-- doc ver 0.32.14 -->
+<h1 align="center">RHIZOMATIC SYSTEMS</h1> 
+
 ## ABOUT
 > [!TIP]
 > There is much more to be hoped for in an excess of information or of weapons than in the restriction of information or arms control.
@@ -22,7 +23,7 @@ Session ID:
 <h3 align="center">ETHOS</h3>
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" style="filter: brightness(0) invert(1);"> <img alt="Kopimi" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Kopimi_k.svg" width="115" height="120"></picture>
-</picture> <br>
+</picture>
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Open-source-hardware-logo.svg" width="114" height="120" alt="Open Source Hardware" />
 
