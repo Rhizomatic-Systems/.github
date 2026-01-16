@@ -1,4 +1,4 @@
-<!-- doc ver 0.32.14 -->
+<!-- doc ver 0.33.14 -->
 <h1 align="center">RHIZOMATIC SYSTEMS</h1> 
 
 ## ABOUT
@@ -46,11 +46,11 @@ Session ID:
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" /> <img src="https://upload.wikimedia.org/wikipedia/en/7/70/Anarchist_Black_Cross_Federation_logo.png" width="120" height="120" alt="ABC Federation" />
 
-<br>
+</p> <p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" align="center" />
 
 </p>
 
