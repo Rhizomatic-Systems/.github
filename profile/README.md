@@ -1,4 +1,4 @@
-<!-- doc ver 0.33.14 -->
+<!-- doc ver 0.33.15 -->
 <h1 align="center">RHIZOMATIC SYSTEMS</h1> 
 
 ## ABOUT
@@ -36,26 +36,27 @@ Session ID:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Tor_Icon_Flat.svg" width="80" height="120" alt="The Tor Project" />
 
-<br>
+</p> <p align="center">
 
 <img src="https://www.eff.org/files/2018/06/14/eff-logo-lockup-reverse.png" width="320" height="70" alt="Electronic Frontier Foundation" />
 
-<br>
+</p> <p align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Free_Software_Foundation_logo_and_wordmark.svg" alt="Free Software Foundation" width="360" alt="42" />
 
-<br>
+</p> <p align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" /> <img src="https://upload.wikimedia.org/wikipedia/en/7/70/Anarchist_Black_Cross_Federation_logo.png" width="120" height="120" alt="ABC Federation" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Revolutionary_Action_emblem.svg" width="120" height="120" alt="Revolutionary Action" /> 
+<img src="https://upload.wikimedia.org/wikipedia/en/7/70/Anarchist_Black_Cross_Federation_logo.png" width="120" height="120" alt="ABC Federation" />
 
 </p> <p align="center">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_the_Combat_Organization_of_Anarcho-Communists.svg" width="213" height="120" alt="Combat Organization of Anarcho-Communists" align="center" />
 
-</p>
+</p> <p align="center">
 
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OFTC_logo.svg" width="120" height="120" alt="Open and Free Technology Community" /> <img src="https://reprap.org/mediawiki/images/b/b6/RepRap_Logo_Badge.png" width="96" height="120" alt="RepRap" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/28/OFTC_logo.svg" width="120" height="120" alt="Open and Free Technology Community" /> 
+<img src="https://reprap.org/mediawiki/images/b/b6/RepRap_Logo_Badge.png" width="96" height="120" alt="RepRap" />
 
 </p>
 
