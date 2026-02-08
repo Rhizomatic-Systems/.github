@@ -1,4 +1,4 @@
-<!-- doc ver 0.35.15 -->
+<!-- doc ver 0.35.16 -->
 <h1 align="center">RHIZOMATIC SYSTEMS</h1> 
 <p align="center">
 
@@ -86,7 +86,7 @@ Session ID:
 </p>
 
 <h2 align="center">WARRANT CANARY <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canary-logo.png" align="top" width="35" height=353 /></h2>
-Since it's inception, no warrants have been served to Rhizomatic Systems principals or employees. No searches or seizures have been performed on Rhizomatic Sysyems. 
+Since it's inception, no warrants have been served to Rhizomatic Systems principals or employees. No searches or seizures have been performed on Rhizomatic Systems. 
 <!-- dead canary link:
 https://upload.wikimedia.org/wikipedia/commons/8/83/Canary-logo_dead.png
 -->
