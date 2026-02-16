@@ -1,4 +1,4 @@
-<!-- doc ver 0.4.0 -->
+<!-- doc ver 0.4.1 -->
 <h1 align="center">RHIZOMATIC SYSTEMS</h1>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 **Rhizomatic Systems** is a technical collective dedicated to dismantling power asymmetries between individuals and institutional forces—from the military-industrial complex to state apparatuses—through the democratization of information and equipment. We provide solutions that span agriculture, security, communications, media, and beyond, unified by a singular purpose: **restoring autonomy to those who face its erosion**.
 
-### Origins & Philosophy
+### Origins
 
 Born from a deep engagement with Deleuze and Guattari's *Anti-Oedipus* and *A Thousand Plateaus*, Rhizomatic Systems takes its name and ethos from the rhizome—a non-hierarchical, decentralized network that grows horizontally, resists centralized control, and creates unexpected connections. Established online in 2025, we emerged not as a traditional company, but as a **tactical intervention** against the enclosure of knowledge and the monopolization of capability.
 
@@ -27,7 +27,7 @@ Our approach applies Deleuzian philosophy directly to DevOps: we build systems t
 
 We exist to **compete with intellectual property regimes** that obstruct human advancement and threaten the stability of life itself. Patents, proprietary systems, and information asymmetries are not neutral—they are weapons wielded by institutions to maintain dominance. Rhizomatic Systems counters this through open technical solutions that anyone can access, modify, and deploy.
 
-### Who We Serve
+### Service
 
 Our work is for:
 - **Data sovereignty advocates** seeking control over their digital existence
@@ -38,7 +38,7 @@ Our work is for:
 
 We don't serve customers—we **arm collaborators**. Our clients are co-conspirators in the project of building parallel infrastructures that operate outside, and in opposition to, systems of control.
 
-### Our Work
+### Work
 
 From agricultural technologies that break automation monopolies to security tools that protect activists and outliers, our solutions are **rhizomatic by design**: adaptable, reproducible, and impossible to fully suppress. We build for resilience, not profit. We distribute capability, not dependency.
 
