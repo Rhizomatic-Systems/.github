@@ -1,4 +1,4 @@
-<!-- doc ver 0.4.1 -->
+<!-- doc ver 1.5.1-alpha -->
 <h1 align="center">RHIZOMATIC SYSTEMS</h1>
 
 <p align="center">
@@ -9,12 +9,6 @@
 
 <h2 align="center">ABOUT</h2>
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/.github/refs/heads/main/profile/assets/img/Baudrillard.png" />
-
-</p>
-
 **Rhizomatic Systems** is a technical collective dedicated to dismantling power asymmetries between individuals and institutional forces—from the military-industrial complex to state apparatuses—through the democratization of information and equipment. We provide solutions that span agriculture, security, communications, media, and beyond, unified by a singular purpose: **restoring autonomy to those who face its erosion**.
 
 ### Origins
@@ -22,6 +16,12 @@
 Born from a deep engagement with Deleuze and Guattari's *Anti-Oedipus* and *A Thousand Plateaus*, Rhizomatic Systems takes its name and ethos from the rhizome—a non-hierarchical, decentralized network that grows horizontally, resists centralized control, and creates unexpected connections. Established online in 2025, we emerged not as a traditional company, but as a **tactical intervention** against the enclosure of knowledge and the monopolization of capability.
 
 Our approach applies Deleuzian philosophy directly to DevOps: we build systems that are **multiplicitous, deterritorialized, and resistant to capture**. We reject arborescent structures—the tree-like hierarchies that concentrate power—in favor of distributed architectures that enable autonomy, resilience, and collective action.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rhizomatic-Systems/.github/refs/heads/main/profile/assets/img/Baudrillard.png" />
+
+</p>
 
 ### Mission
 
